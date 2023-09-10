@@ -1,7 +1,5 @@
 import './BarChart.css';
 
-import React from 'react';
-
 export type BarChartProps = {
   data: number[];
 };
